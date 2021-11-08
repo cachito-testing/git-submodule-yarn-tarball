@@ -1,0 +1,3 @@
+[submodule "cachito-yarn-with-deps"]
+	path = cachito-yarn-with-deps
+	url = https://github.com/cachito-testing/cachito-yarn-with-deps.git

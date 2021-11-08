@@ -1,0 +1,10 @@
+{
+  "name": "cachito-yarn-with-deps",
+  "version": "1.0.0",
+  "dependencies": {
+    "chai": "4.2.0",
+    "fecha": "https://github.com/taylorhakes/fecha/archive/91680e4db1415fea33eac878cfd889c80a7b55c7.tar.gz",
+    "npm-test-project": "git+https://gitlab.com/eakhmano-test-group/eakhmano-test-subgroup/subsubgroup/npm-test-project.git",
+    "test-npm-dep": "git+https://elinah@bitbucket.org/elinah/test-npm-dep.git"
+  }
+}
