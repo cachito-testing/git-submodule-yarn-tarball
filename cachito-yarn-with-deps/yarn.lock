@@ -44,9 +44,10 @@ get-func-name@^2.0.0:
   resolved "https://registry.yarnpkg.com/get-func-name/-/get-func-name-2.0.0.tgz#ead774abee72e20409433a066366023dd6887a41"
   integrity sha1-6td0q+5y4gQJQzoGY2YCPdaIekE=
 
-"is-positive@github:kevva/is-positive.git":
+is-positive@^3.1.0:
   version "3.1.0"
-  resolved "https://codeload.github.com/kevva/is-positive/tar.gz/97edff6f525f192a3f83cea1944765f769ae2678"
+  resolved "https://registry.yarnpkg.com/is-positive/-/is-positive-3.1.0.tgz#857db584a1ba5d1cb2980527fc3b6c435d37b0fd"
+  integrity sha1-hX21hKG6XRyymAUn/DtsQ103sP0=
 
 pathval@^1.1.0:
   version "1.1.1"

@@ -2,9 +2,9 @@
   "name": "cachito-yarn-with-deps",
   "version": "1.0.0",
   "dependencies": {
+    "cachito-yarn-without-deps": "git+https://github.com/cachito-testing/cachito-yarn-without-deps.git",
     "chai": "4.2.0",
-    "is-positive": "github:kevva/is-positive.git",
     "fecha": "https://github.com/taylorhakes/fecha/archive/91680e4db1415fea33eac878cfd889c80a7b55c7.tar.gz",
-    "cachito-yarn-without-deps": "git+https://github.com/cachito-testing/cachito-yarn-without-deps.git"
+    "is-positive": "^3.1.0"
   }
 }
